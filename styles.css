@@ -1,0 +1,55 @@
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.middle-background {
+  background-image: url("https://image01.oneplus.net/shop/201909/26/1-M00-0A-75-rB8LB12MYfyAdyJTAASa38KrhR0280.jpg");
+  height: 600px;
+  padding-top: 150px;
+  padding-left: 100px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.middle-text {
+  font-size: 30px;
+  color: #000000;
+  padding-right: 100px;
+  padding-top: 20px;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+}
+
+.middle-text-body1 {
+  font-size: 13px;
+  color: #000000;
+  padding-right: 100px;
+  padding-top: 20px;
+  font-weight: 500;
+  line-height: 1px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.footer-background {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: black;
+}
+
+.ui.white.animated.basic.button {
+  margin-top:30px;
+}
+
+.footer-text {
+  font-weight: bold;
+}
+
+.item-footer {
+  line-height: 30px;
+  font-weight: 100;
+  color: #7d8080;
+}
